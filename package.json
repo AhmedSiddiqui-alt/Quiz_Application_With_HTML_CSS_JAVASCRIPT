@@ -1,0 +1,25 @@
+{
+  "name": "quiz_application",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DThis is a text directory to make quiz application\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedSiddiqui-alt/Quiz_Application_With_HTML_CSS_JAVASCRIPT.git"
+  },
+  "author": "\"\"\u001b[DMuhammad Ahmed Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedSiddiqui-alt/Quiz_Application_With_HTML_CSS_JAVASCRIPT/issues"
+  },
+  "homepage": "https://github.com/AhmedSiddiqui-alt/Quiz_Application_With_HTML_CSS_JAVASCRIPT#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4",
+    "save-dev": "0.0.1-security"
+  }
+}
