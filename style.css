@@ -1,0 +1,29 @@
+@media screen and (max-width:500px)
+{
+    
+    .styleBox1{
+        text-align: center;
+    }
+    .styleBox{
+        text-align: center;
+    }
+    .Box{
+        background-color: rgb(37, 13, 22);
+        color: white;
+    }
+    .Box2{
+        background-color: rgb(37, 13, 22);
+        color: white;
+    }
+   .Box3{
+       margin: 0 auto !important;
+   }
+}
+.Box{
+    background-color: rgb(37, 13, 22);
+    color: white;
+}
+.Box2{
+    background-color: rgb(37, 13, 22);
+    color: white;
+}
